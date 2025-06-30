@@ -48,5 +48,5 @@ This Power BI dashboard is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or further information regarding this dashboard, please contact **sanchitsingla1403@gmail.com**
+For any inquiries or further information regarding this dashboard, please contact **sahilanand00027@gmail.com**
 ---
